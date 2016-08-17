@@ -2,7 +2,7 @@
 
 play simon game
 
-View on [CodePen](http://codepen.io/emiliogozo/full/YWdPYK)
+View on [CodePen](http://codepen.io/emiliogozo/pen/rLRKKK)
 
 ### Technologies used:
 - HTML
