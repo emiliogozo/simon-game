@@ -1,0 +1,14 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "Simon Game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soundmanager2": "^2.97.20150601-a"
+  }
+}
